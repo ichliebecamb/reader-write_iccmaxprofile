@@ -1,0 +1,2 @@
+# reader_iccmaxprofile
+本仓库利用matlab编写了对新版本特性文件的读取功能。
